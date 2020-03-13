@@ -5,7 +5,7 @@ In this step by step workshop, you'll learn how to exploit this Java application
 - Java 8
 - Maven
 - Browser (preferably Chrome)
-- IDE / Code editor
+- IDE / Code editor + Lombok plugin
 
 # Introduction
 
